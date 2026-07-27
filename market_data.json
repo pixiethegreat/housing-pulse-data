@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-20",
+  "updated": "2026-07-27",
   "riksbank": {
     "rate": 1.75,
-    "date": "2026-07-20",
+    "date": "2026-07-27",
     "previous_rate": 1.75,
     "direction": "unchanged",
     "next_meeting": "20 augusti 2026"
@@ -10,7 +10,7 @@
   "booli": {
     "apartments": {
       "Storstockholm": {
-        "1_month": "0.7%",
+        "1_month": "0.6%",
         "3_months": "1%",
         "12_months": "6.5%",
         "ytd": "6.4%",
@@ -24,38 +24,38 @@
         "since_peak": "-9.6%"
       },
       "Stormalmö": {
-        "1_month": "0.4%",
-        "3_months": "-0.6%",
-        "12_months": "0.8%",
+        "1_month": "0.3%",
+        "3_months": "-0.7%",
+        "12_months": "0.7%",
         "ytd": "1.2%",
-        "since_peak": "-6.9%"
+        "since_peak": "-7%"
       },
       "Norra Sverige": {
-        "1_month": "-1%",
-        "3_months": "-0.7%",
-        "12_months": "4.3%",
-        "ytd": "3.4%",
-        "since_peak": "-9.7%"
+        "1_month": "-0.9%",
+        "3_months": "-0.6%",
+        "12_months": "4.4%",
+        "ytd": "3.5%",
+        "since_peak": "-9.6%"
       },
       "Mellersta Sverige": {
-        "1_month": "1.8%",
+        "1_month": "2%",
         "3_months": "2.6%",
         "12_months": "2.5%",
-        "ytd": "4.8%",
-        "since_peak": "-10.5%"
+        "ytd": "4.9%",
+        "since_peak": "-10.4%"
       },
       "Södra Sverige": {
-        "1_month": "0.7%",
-        "3_months": "1.4%",
-        "12_months": "0.4%",
-        "ytd": "3%",
-        "since_peak": "-11.8%"
+        "1_month": "1%",
+        "3_months": "1.6%",
+        "12_months": "0.5%",
+        "ytd": "3.2%",
+        "since_peak": "-11.7%"
       }
     },
     "houses": {
       "Storstockholm": {
         "1_month": "-0.3%",
-        "3_months": "0%",
+        "3_months": "-0.1%",
         "12_months": "0.4%",
         "ytd": "2.4%",
         "since_peak": "-10.7%"
@@ -63,36 +63,36 @@
       "Storgöteborg": {
         "1_month": "1.1%",
         "3_months": "1.8%",
-        "12_months": "0.3%",
+        "12_months": "0.4%",
         "ytd": "2%",
         "since_peak": "-9.8%"
       },
       "Stormalmö": {
         "1_month": "0.9%",
-        "3_months": "4.5%",
-        "12_months": "3.2%",
+        "3_months": "4.6%",
+        "12_months": "3.3%",
         "ytd": "6.5%",
         "since_peak": "-3.9%"
       },
       "Norra Sverige": {
         "1_month": "-1.1%",
-        "3_months": "5.2%",
-        "12_months": "4.3%",
-        "ytd": "10.1%",
-        "since_peak": "-6.3%"
+        "3_months": "5%",
+        "12_months": "4.1%",
+        "ytd": "9.9%",
+        "since_peak": "-6.4%"
       },
       "Mellersta Sverige": {
-        "1_month": "1.9%",
-        "3_months": "3.5%",
-        "12_months": "3.5%",
-        "ytd": "7.3%",
-        "since_peak": "-12.4%"
+        "1_month": "1.8%",
+        "3_months": "3.6%",
+        "12_months": "3.6%",
+        "ytd": "7.4%",
+        "since_peak": "-12.3%"
       },
       "Södra Sverige": {
         "1_month": "0.7%",
         "3_months": "4.6%",
         "12_months": "4%",
-        "ytd": "6.6%",
+        "ytd": "6.7%",
         "since_peak": "-6.6%"
       }
     }
@@ -116,9 +116,21 @@
   "news": [
     {
       "source": "DI",
-      "title": "Europaräntor stiger efter förnyad Iranoro",
-      "url": "https://www.di.se/live/europarantor-stiger-efter-fornyad-iranoro/",
-      "date": "Mon, 20 Jul 2026"
+      "title": "Iran: Tanker har gått på mina i Hormuz",
+      "url": "https://www.di.se/nyheter/iran-tanker-har-gatt-pa-mina-i-hormuz/",
+      "date": "Mon, 27 Jul 2026"
+    },
+    {
+      "source": "DI",
+      "title": "ECB-ledamot: Måste höja minst en gång till",
+      "url": "https://www.di.se/live/ecb-ledamot-maste-hoja-minst-en-gang-till/",
+      "date": "Mon, 27 Jul 2026"
+    },
+    {
+      "source": "DI",
+      "title": "Grön öppning på börsen – kraftigt fall i oljan",
+      "url": "https://www.di.se/ditv/nyheter/gron-oppning-pa-borsen-kraftigt-fall-i-oljan/",
+      "date": "Mon, 27 Jul 2026"
     }
   ]
 }
