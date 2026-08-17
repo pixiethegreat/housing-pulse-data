@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-10",
+  "updated": "2026-08-17",
   "riksbank": {
     "rate": 1.75,
-    "date": "2026-08-10",
+    "date": "2026-08-17",
     "previous_rate": 1.75,
     "direction": "unchanged",
     "next_meeting": "20 augusti 2026"
@@ -10,46 +10,46 @@
   "booli": {
     "apartments": {
       "Storstockholm": {
-        "1_month": "-7.2%",
-        "3_months": "-6.7%",
-        "12_months": "1.5%",
-        "ytd": "-1.3%",
-        "since_peak": "-9.3%"
+        "1_month": "-7%",
+        "3_months": "-6.5%",
+        "12_months": "1.7%",
+        "ytd": "-1.1%",
+        "since_peak": "-9.1%"
       },
       "Storgöteborg": {
-        "1_month": "-3.3%",
-        "3_months": "-4.5%",
-        "12_months": "1.4%",
-        "ytd": "-1.9%",
-        "since_peak": "-12.6%"
+        "1_month": "-2.9%",
+        "3_months": "-4.2%",
+        "12_months": "1.8%",
+        "ytd": "-1.5%",
+        "since_peak": "-12.3%"
       },
       "Stormalmö": {
-        "1_month": "2.3%",
-        "3_months": "1.1%",
-        "12_months": "2.7%",
-        "ytd": "3.5%",
-        "since_peak": "-4.8%"
+        "1_month": "2.6%",
+        "3_months": "1.5%",
+        "12_months": "3.1%",
+        "ytd": "3.9%",
+        "since_peak": "-4.4%"
       },
       "Norra Sverige": {
-        "1_month": "-3.1%",
+        "1_month": "-3%",
         "3_months": "-1.2%",
         "12_months": "-1.1%",
-        "ytd": "0.7%",
-        "since_peak": "-12.3%"
+        "ytd": "0.8%",
+        "since_peak": "-12.2%"
       },
       "Mellersta Sverige": {
         "1_month": "-3%",
         "3_months": "-1.9%",
         "12_months": "1.4%",
-        "ytd": "1.8%",
+        "ytd": "1.9%",
         "since_peak": "-13.1%"
       },
       "Södra Sverige": {
-        "1_month": "-0.9%",
-        "3_months": "-0.3%",
-        "12_months": "-0.5%",
-        "ytd": "2.1%",
-        "since_peak": "-12.6%"
+        "1_month": "-1.1%",
+        "3_months": "-0.4%",
+        "12_months": "-0.7%",
+        "ytd": "1.9%",
+        "since_peak": "-12.7%"
       }
     },
     "houses": {
@@ -58,42 +58,42 @@
         "3_months": "-3.8%",
         "12_months": "0.2%",
         "ytd": "-0.3%",
-        "since_peak": "-13.1%"
+        "since_peak": "-13%"
       },
       "Storgöteborg": {
-        "1_month": "1.7%",
-        "3_months": "3.2%",
-        "12_months": "2.9%",
-        "ytd": "3.7%",
-        "since_peak": "-8.2%"
+        "1_month": "1.9%",
+        "3_months": "3.4%",
+        "12_months": "3.1%",
+        "ytd": "3.9%",
+        "since_peak": "-8%"
       },
       "Stormalmö": {
         "1_month": "-0.5%",
-        "3_months": "1.3%",
+        "3_months": "1.4%",
         "12_months": "5%",
         "ytd": "5.8%",
-        "since_peak": "-4.5%"
+        "since_peak": "-4.4%"
       },
       "Norra Sverige": {
-        "1_month": "-2.8%",
-        "3_months": "-2%",
-        "12_months": "3.4%",
-        "ytd": "6.9%",
-        "since_peak": "-9.2%"
+        "1_month": "-2.6%",
+        "3_months": "-1.8%",
+        "12_months": "3.7%",
+        "ytd": "7.1%",
+        "since_peak": "-9%"
       },
       "Mellersta Sverige": {
         "1_month": "-0.9%",
-        "3_months": "0.9%",
+        "3_months": "0.8%",
         "12_months": "4%",
         "ytd": "6.2%",
         "since_peak": "-13.2%"
       },
       "Södra Sverige": {
-        "1_month": "0%",
-        "3_months": "3.3%",
+        "1_month": "-0.1%",
+        "3_months": "3.2%",
         "12_months": "4.5%",
         "ytd": "6.1%",
-        "since_peak": "-6.9%"
+        "since_peak": "-7%"
       }
     }
   },
@@ -116,9 +116,21 @@
   "news": [
     {
       "source": "DI",
-      "title": "Högre inflation än väntat i Danmark",
-      "url": "https://www.di.se/live/hogre-inflation-an-vantat-i-danmark/",
-      "date": "Mon, 10 Aug 2026"
+      "title": "Vändningen: Spår boprisfall i Storbritannien",
+      "url": "https://www.di.se/live/vandningen-spar-boprisfall-i-storbritannien/",
+      "date": "Mon, 17 Aug 2026"
+    },
+    {
+      "source": "DI",
+      "title": "Bopriserna sjunker i Kina",
+      "url": "https://www.di.se/live/bopriserna-sjunker-i-kina/",
+      "date": "Mon, 17 Aug 2026"
+    },
+    {
+      "source": "DI",
+      "title": "Inflationsförväntningarna skruvas upp något",
+      "url": "https://www.di.se/live/inflationsforvantningarna-skruvas-upp-nagot/",
+      "date": "Mon, 17 Aug 2026"
     }
   ]
 }
