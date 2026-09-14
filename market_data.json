@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-07",
+  "updated": "2026-09-14",
   "riksbank": {
     "rate": 1.75,
-    "date": "2026-09-07",
+    "date": "2026-09-14",
     "previous_rate": 1.75,
     "direction": "unchanged",
     "next_meeting": "24 september 2026"
@@ -12,88 +12,88 @@
       "Storstockholm": {
         "1_month": "6.1%",
         "3_months": "-0.7%",
-        "12_months": "4%",
+        "12_months": "3.9%",
         "ytd": "4.9%",
         "since_peak": "-3.6%"
       },
       "Storgöteborg": {
-        "1_month": "4.6%",
+        "1_month": "4.5%",
         "3_months": "0.7%",
         "12_months": "3.2%",
         "ytd": "3.3%",
         "since_peak": "-8%"
       },
       "Stormalmö": {
-        "1_month": "-2.2%",
-        "3_months": "0.5%",
-        "12_months": "1.4%",
-        "ytd": "1.4%",
-        "since_peak": "-6.8%"
+        "1_month": "-2.4%",
+        "3_months": "0.3%",
+        "12_months": "1.2%",
+        "ytd": "1.1%",
+        "since_peak": "-7%"
       },
       "Norra Sverige": {
-        "1_month": "5.9%",
-        "3_months": "1.8%",
-        "12_months": "6.5%",
-        "ytd": "6.3%",
-        "since_peak": "-7.5%"
+        "1_month": "5.8%",
+        "3_months": "1.7%",
+        "12_months": "6.2%",
+        "ytd": "6.2%",
+        "since_peak": "-7.7%"
       },
       "Mellersta Sverige": {
-        "1_month": "0.7%",
-        "3_months": "-0.4%",
-        "12_months": "0.3%",
-        "ytd": "2.7%",
-        "since_peak": "-12.4%"
+        "1_month": "1.1%",
+        "3_months": "-0.1%",
+        "12_months": "0.5%",
+        "ytd": "2.9%",
+        "since_peak": "-12.2%"
       },
       "Södra Sverige": {
-        "1_month": "0.5%",
-        "3_months": "0.2%",
-        "12_months": "-0.7%",
-        "ytd": "2.3%",
-        "since_peak": "-12.4%"
+        "1_month": "0.4%",
+        "3_months": "0.5%",
+        "12_months": "-0.4%",
+        "ytd": "2.6%",
+        "since_peak": "-12.2%"
       }
     },
     "houses": {
       "Storstockholm": {
-        "1_month": "2.9%",
-        "3_months": "-0.6%",
+        "1_month": "2.7%",
+        "3_months": "-0.7%",
         "12_months": "2.2%",
         "ytd": "2.9%",
-        "since_peak": "-10.1%"
+        "since_peak": "-10.2%"
       },
       "Storgöteborg": {
-        "1_month": "-0.8%",
-        "3_months": "0.8%",
+        "1_month": "-0.3%",
+        "3_months": "1%",
         "12_months": "1.6%",
         "ytd": "2.5%",
         "since_peak": "-9.1%"
       },
       "Stormalmö": {
-        "1_month": "1.5%",
-        "3_months": "1.2%",
-        "12_months": "4.8%",
-        "ytd": "6.6%",
-        "since_peak": "-3.7%"
+        "1_month": "1.2%",
+        "3_months": "1%",
+        "12_months": "4.5%",
+        "ytd": "6.3%",
+        "since_peak": "-4%"
       },
       "Norra Sverige": {
-        "1_month": "4.9%",
-        "3_months": "2.1%",
-        "12_months": "9.1%",
-        "ytd": "11.6%",
-        "since_peak": "-5.2%"
+        "1_month": "6%",
+        "3_months": "2.7%",
+        "12_months": "9.9%",
+        "ytd": "12.5%",
+        "since_peak": "-4.5%"
       },
       "Mellersta Sverige": {
-        "1_month": "-0.4%",
-        "3_months": "0.7%",
-        "12_months": "4.8%",
-        "ytd": "6.2%",
+        "1_month": "0%",
+        "3_months": "0.6%",
+        "12_months": "4.9%",
+        "ytd": "6.3%",
         "since_peak": "-13.1%"
       },
       "Södra Sverige": {
-        "1_month": "-0.3%",
-        "3_months": "-0.4%",
-        "12_months": "3.2%",
-        "ytd": "4.5%",
-        "since_peak": "-8.4%"
+        "1_month": "-0.1%",
+        "3_months": "-0.8%",
+        "12_months": "2.9%",
+        "ytd": "4.1%",
+        "since_peak": "-8.8%"
       }
     }
   },
@@ -115,9 +115,9 @@
   "news": [
     {
       "source": "DI",
-      "title": "Håll koll: Inflationsförväntningar",
-      "url": "https://www.di.se/ditv/nyheter/hall-koll-inflationsforvantningar/",
-      "date": "Mon, 07 Sep 2026"
+      "title": "Kärninflationen stiger i Kanada",
+      "url": "https://www.di.se/live/karninflationen-stiger-i-kanada/",
+      "date": "Mon, 14 Sep 2026"
     }
   ]
 }
