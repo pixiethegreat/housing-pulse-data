@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-19",
+  "updated": "2026-10-26",
   "riksbank": {
     "rate": 1.75,
-    "date": "2026-10-19",
+    "date": "2026-10-26",
     "previous_rate": 1.75,
     "direction": "unchanged",
     "next_meeting": "4 november 2026"
@@ -10,90 +10,90 @@
   "booli": {
     "apartments": {
       "Storstockholm": {
-        "1_month": "2.6%",
-        "3_months": "1.2%",
-        "12_months": "5.7%",
-        "ytd": "7.6%",
-        "since_peak": "-1.1%"
+        "1_month": "2.7%",
+        "3_months": "1.3%",
+        "12_months": "5.8%",
+        "ytd": "7.7%",
+        "since_peak": "-1%"
       },
       "Storgöteborg": {
         "1_month": "-0.2%",
-        "3_months": "1%",
-        "12_months": "4.1%",
-        "ytd": "3%",
-        "since_peak": "-8.4%"
+        "3_months": "0.9%",
+        "12_months": "4%",
+        "ytd": "2.9%",
+        "since_peak": "-8.5%"
       },
       "Stormalmö": {
         "1_month": "1%",
         "3_months": "0.9%",
         "12_months": "3%",
-        "ytd": "2.3%",
-        "since_peak": "-5.9%"
+        "ytd": "2.4%",
+        "since_peak": "-5.8%"
       },
       "Norra Sverige": {
-        "1_month": "-0.2%",
-        "3_months": "1.1%",
+        "1_month": "0%",
+        "3_months": "1.2%",
         "12_months": "3.4%",
-        "ytd": "5%",
+        "ytd": "5.1%",
         "since_peak": "-8.7%"
       },
       "Mellersta Sverige": {
         "1_month": "-0.2%",
         "3_months": "-1.6%",
-        "12_months": "1.3%",
+        "12_months": "1.2%",
         "ytd": "3.5%",
         "since_peak": "-11.8%"
       },
       "Södra Sverige": {
-        "1_month": "0.2%",
-        "3_months": "-0.5%",
-        "12_months": "0.8%",
-        "ytd": "2.5%",
-        "since_peak": "-12.2%"
+        "1_month": "0%",
+        "3_months": "-0.8%",
+        "12_months": "0.6%",
+        "ytd": "2.2%",
+        "since_peak": "-12.4%"
       }
     },
     "houses": {
       "Storstockholm": {
-        "1_month": "2.3%",
+        "1_month": "1.9%",
         "3_months": "0.8%",
-        "12_months": "3.7%",
-        "ytd": "5.4%",
-        "since_peak": "-8.1%"
+        "12_months": "3.8%",
+        "ytd": "5.5%",
+        "since_peak": "-8%"
       },
       "Storgöteborg": {
-        "1_month": "0.8%",
+        "1_month": "1.2%",
         "3_months": "1.9%",
-        "12_months": "1.6%",
-        "ytd": "3.4%",
-        "since_peak": "-8.4%"
+        "12_months": "1.7%",
+        "ytd": "3.5%",
+        "since_peak": "-8.3%"
       },
       "Stormalmö": {
-        "1_month": "2.8%",
-        "3_months": "2%",
+        "1_month": "2.6%",
+        "3_months": "1.9%",
         "12_months": "6.3%",
-        "ytd": "8%",
-        "since_peak": "-2.6%"
+        "ytd": "8.1%",
+        "since_peak": "-2.5%"
       },
       "Norra Sverige": {
-        "1_month": "0.5%",
-        "3_months": "2.7%",
-        "12_months": "8.8%",
-        "ytd": "12.1%",
-        "since_peak": "-4.7%"
+        "1_month": "1%",
+        "3_months": "2.2%",
+        "12_months": "8.4%",
+        "ytd": "11.7%",
+        "since_peak": "-5.1%"
       },
       "Mellersta Sverige": {
         "1_month": "2.6%",
-        "3_months": "0.6%",
-        "12_months": "6.3%",
-        "ytd": "7.9%",
-        "since_peak": "-11.7%"
+        "3_months": "0.4%",
+        "12_months": "6.2%",
+        "ytd": "7.7%",
+        "since_peak": "-11.9%"
       },
       "Södra Sverige": {
-        "1_month": "1.8%",
-        "3_months": "1%",
-        "12_months": "4.4%",
-        "ytd": "6.2%",
-        "since_peak": "-7%"
+        "1_month": "1.5%",
+        "3_months": "0.7%",
+        "12_months": "4%",
+        "ytd": "5.8%",
+        "since_peak": "-7.3%"
       }
     }
   },
@@ -116,15 +116,9 @@
   "news": [
     {
       "source": "DI",
-      "title": "Inflationen klättrar svagt uppåt i Kanada",
-      "url": "https://www.di.se/live/inflationen-klattrar-svagt-uppat-i-kanada/",
-      "date": "Mon, 19 Oct 2026"
-    },
-    {
-      "source": "DI",
-      "title": "Bostadsmarknaden bromsar tillväxten",
-      "url": "https://www.di.se/debatt/bostadsmarknaden-bromsar-tillvaxten/",
-      "date": "Mon, 19 Oct 2026"
+      "title": "Ryssland: Kriget fortsätter trots samtalsplan",
+      "url": "https://www.di.se/nyheter/ryssland-kriget-fortsatter-trots-samtalsplan/",
+      "date": "Mon, 26 Oct 2026"
     }
   ]
 }
