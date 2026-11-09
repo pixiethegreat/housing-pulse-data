@@ -1,99 +1,99 @@
 {
-  "updated": "2026-11-02",
+  "updated": "2026-11-09",
   "riksbank": {
     "rate": 1.75,
-    "date": "2026-11-02",
+    "date": "2026-11-09",
     "previous_rate": 1.75,
     "direction": "unchanged",
-    "next_meeting": "4 november 2026"
+    "next_meeting": "16 december 2026"
   },
   "booli": {
     "apartments": {
       "Storstockholm": {
-        "1_month": "2.7%",
-        "3_months": "1.4%",
-        "12_months": "5.8%",
-        "ytd": "7.7%",
-        "since_peak": "-1%"
+        "1_month": "0.4%",
+        "3_months": "9.3%",
+        "12_months": "5.6%",
+        "ytd": "8.2%",
+        "since_peak": "-0.5%"
       },
       "Storgöteborg": {
-        "1_month": "-0.2%",
-        "3_months": "0.8%",
-        "12_months": "4%",
-        "ytd": "2.8%",
-        "since_peak": "-8.5%"
+        "1_month": "-0.4%",
+        "3_months": "3.5%",
+        "12_months": "3.2%",
+        "ytd": "2.4%",
+        "since_peak": "-8.9%"
       },
       "Stormalmö": {
-        "1_month": "0.9%",
-        "3_months": "0.9%",
-        "12_months": "3%",
-        "ytd": "2.4%",
-        "since_peak": "-5.9%"
+        "1_month": "0.3%",
+        "3_months": "-1.2%",
+        "12_months": "2.7%",
+        "ytd": "2.5%",
+        "since_peak": "-5.8%"
       },
       "Norra Sverige": {
-        "1_month": "0%",
-        "3_months": "1.3%",
-        "12_months": "3.4%",
-        "ytd": "5.2%",
-        "since_peak": "-8.7%"
+        "1_month": "0.5%",
+        "3_months": "4.2%",
+        "12_months": "2.7%",
+        "ytd": "5.5%",
+        "since_peak": "-8.2%"
       },
       "Mellersta Sverige": {
-        "1_month": "-0.2%",
-        "3_months": "-1.5%",
-        "12_months": "1.3%",
-        "ytd": "3.5%",
-        "since_peak": "-11.8%"
+        "1_month": "0.1%",
+        "3_months": "2%",
+        "12_months": "0.4%",
+        "ytd": "3.6%",
+        "since_peak": "-11.7%"
       },
       "Södra Sverige": {
-        "1_month": "-0.1%",
-        "3_months": "-0.8%",
-        "12_months": "0.5%",
-        "ytd": "2.3%",
-        "since_peak": "-12.4%"
+        "1_month": "-0.2%",
+        "3_months": "-0.4%",
+        "12_months": "1.9%",
+        "ytd": "2%",
+        "since_peak": "-12.6%"
       }
     },
     "houses": {
       "Storstockholm": {
-        "1_month": "1.9%",
-        "3_months": "0.8%",
-        "12_months": "3.8%",
-        "ytd": "5.5%",
-        "since_peak": "-8%"
-      },
-      "Storgöteborg": {
-        "1_month": "1.2%",
+        "1_month": "-1.6%",
         "3_months": "1.9%",
         "12_months": "1.8%",
-        "ytd": "3.6%",
-        "since_peak": "-8.2%"
+        "ytd": "3.9%",
+        "since_peak": "-9.4%"
+      },
+      "Storgöteborg": {
+        "1_month": "-0.1%",
+        "3_months": "0.8%",
+        "12_months": "3%",
+        "ytd": "3.4%",
+        "since_peak": "-8.3%"
       },
       "Stormalmö": {
-        "1_month": "2.5%",
-        "3_months": "2.1%",
-        "12_months": "6.4%",
-        "ytd": "8.2%",
-        "since_peak": "-2.4%"
+        "1_month": "-0.7%",
+        "3_months": "1.9%",
+        "12_months": "4.6%",
+        "ytd": "7.4%",
+        "since_peak": "-3.2%"
       },
       "Norra Sverige": {
-        "1_month": "1%",
-        "3_months": "1.7%",
-        "12_months": "7.9%",
-        "ytd": "11%",
-        "since_peak": "-5.5%"
+        "1_month": "-3.4%",
+        "3_months": "1.6%",
+        "12_months": "5.4%",
+        "ytd": "7.3%",
+        "since_peak": "-8.6%"
       },
       "Mellersta Sverige": {
-        "1_month": "2.3%",
-        "3_months": "0.3%",
-        "12_months": "6.1%",
-        "ytd": "7.7%",
-        "since_peak": "-11.9%"
+        "1_month": "-2.4%",
+        "3_months": "0.2%",
+        "12_months": "2.4%",
+        "ytd": "5%",
+        "since_peak": "-14.1%"
       },
       "Södra Sverige": {
-        "1_month": "1.4%",
-        "3_months": "0.7%",
-        "12_months": "4%",
-        "ytd": "5.8%",
-        "since_peak": "-7.3%"
+        "1_month": "-2.9%",
+        "3_months": "-1.9%",
+        "12_months": "1.5%",
+        "ytd": "2.5%",
+        "since_peak": "-10.2%"
       }
     }
   },
@@ -106,18 +106,18 @@
     "Skandia": "3,55 %",
     "JAK Medlemsbank": "3,58 %",
     "Danske Bank": "3,84 %",
-    "Swedbank": "3,89 %",
-    "Handelsbanken": "3,94 %",
-    "SEB": "3,94 %",
-    "Länsförsäkringar": "3,94 %",
-    "Ålandsbanken": "4,00 %"
+    "Ålandsbanken": "4,00 %",
+    "Swedbank": "4,14 %",
+    "Handelsbanken": "4,19 %",
+    "SEB": "4,19 %",
+    "Länsförsäkringar": "4,19 %"
   },
   "news": [
     {
       "source": "DI",
-      "title": "Iran öppnar för samtal – oljan faller",
-      "url": "https://www.di.se/live/iran-oppnar-for-samtal-oljan-faller/",
-      "date": "Mon, 02 Nov 2026"
+      "title": "Frankrike pekar ut Iran – efter frysattackerna",
+      "url": "https://www.di.se/live/frankrike-pekar-ut-iran-efter-frysattackerna/",
+      "date": "Mon, 09 Nov 2026"
     }
   ]
 }
